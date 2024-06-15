@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1669219841 source:d:\code blocks\calculator\main.cpp
+	<iostream>
+	<Cmath>
+
+1670253639 source:d:\codeblocks\projects\calculator\main.cpp
+	<iostream>
+	<Cmath>
+
+1671207934 source:d:\codeblocks\projects\main projects\calculator\main.cpp
+	<iostream>
+	<Cmath>
+
