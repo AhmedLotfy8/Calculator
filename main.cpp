@@ -12,7 +12,6 @@ void _clear()
     }
 }
 
-
 int main()
 {
 
